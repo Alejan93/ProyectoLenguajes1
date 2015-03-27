@@ -11,6 +11,10 @@
   },
   "engines": {
     "node": "0.10.x"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alejan93/ProyectoLenguajes1"
   },
   "keywords": [
     "node",
