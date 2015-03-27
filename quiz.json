@@ -1,0 +1,56 @@
+{
+	"nombre" : "quiz Lenguajes #8761",
+	"preguntas" :
+		[
+			{		
+				"enunciado" : "Cual es su color favorito?",
+				"opciones" : ["rojo", "verde", "azul", "blanco"],
+				"correcta" : "0"
+			},
+			{
+				"enunciado" : "Cuanto es dos mas dos",
+				"opciones" : ["1","2","3","4","5"],
+				"correcta" : "3"
+			},
+			{
+				"enunciado" : "Cual es el principal autor de Python",
+				"opciones" : ["Guido van Rossum","Bill Gates","Steve Jobs","Dennis Ritchie"],
+				"correcta" : "0"
+			},
+			{
+				"enunciado" : "Primer lenguage de alto nivel",
+				"opciones" : ["C++","Haskell","Java","Pascall","Fortran"],
+				"correcta" : "4"
+			},
+			{		
+				"enunciado" : "Scheme es un tipo de lenguage",
+				"opciones" : ["Funcional", "Logico", "Imperativo", "Orientado a Objetos"],
+				"correcta" : "0"
+			},
+			{
+				"enunciado" : "En que año se creo COBOL?",
+				"opciones" : ["1956","1960","1970","1965"],
+				"correcta" : "1"
+			},
+			{
+				"enunciado" : "Que es PCode?",
+				"opciones" : ["Un lenguaje de Programacion","Una computadora","Un compilador de Pascal","Una herramienta de Pascal"],
+				"correcta" : "2"
+			},
+			{
+				"enunciado" : "Quien fue el creador de LISP",
+				"opciones" : ["N. Wirth","Jonh Backus","Newman","Jonh McCarthy","James Gosling"],
+				"correcta" : "3"
+			},
+			{
+				"enunciado" : "Que lenguaje de Programacion fue creado por Bjarne Stroustrup",
+				"opciones" : ["Java","LISP","Ruby","Scheme","C++"],
+				"correcta" : "4"
+			},
+			{
+				"enunciado" : "Con que fines se creo el lenguaje Pascall",
+				"opciones" : ["Fines Academicos","Fines Militares","Fines Comerciales","Fines Industriales"],
+				"correcta" : "0"
+			}
+		]
+}
