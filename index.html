@@ -135,7 +135,7 @@
 			var index = 0;
 			var preg;
 			var op;
-			$.getJSON("\quiz.json", function(datos) {
+			$.getJSON("/quiz.json", function(datos) {
 				preg = datos.preguntas;
 				op = preg[index].opciones;
 				document.getElementById("preg").innerHTML = preg[index].enunciado;
@@ -156,7 +156,7 @@
 			var lenpreg1;
 			var index1 = 1;
 			var rep;
-			$.getJSON("\quiz.json", function(datos1) {
+			$.getJSON("/quiz.json", function(datos1) {
 				preg1 = datos1.preguntas;
 				console.log(preg1);
 				op1 = preg1[index1].opciones;
